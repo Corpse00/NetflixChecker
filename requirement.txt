@@ -1,0 +1,10 @@
+argparse
+bs4
+certifi
+chardet
+colorama
+idna
+requests
+setuptools
+soupsieve
+urllib3
